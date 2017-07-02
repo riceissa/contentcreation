@@ -9,12 +9,20 @@
           background-color: #fff;
           color: #333;
           font-family: Lato, Helvetica, sans;
+      }
+
+      div#content {
+          max-width: 900px;
           line-height: 1.4;
           margin: 12px auto;
-          max-width: 900px;
           text-align: left;
           width: 93%;
           word-wrap: break-word;
+      }
+
+      nav#site_navigation {
+        font-size: 90%;
+        overflow: hidden;
       }
 
       header { text-align: center; }
@@ -69,11 +77,23 @@
     </style>
   </head>
   <body>
+    <nav id="site_navigation">
+      <div style="float:left;">
+        <a href="http://contentcreation.issarice.com/">Home</a>
+      </div>
+      <div style="float:right;">
+        <a href="https://github.com/riceissa/contentcreation/edit/master/{{ page.path }}">Edit</a>
+        | <a href="https://raw.githubusercontent.com/riceissa/contentcreation/master/{{ page.path }}">View source</a>
+        | <a href="https://github.com/riceissa/contentcreation/commits/master/{{ page.path }}">View history</a>
+      </div>
+    </nav>
+<div id="content">
 <h1>{{ page.title }}</h1>
 
 {{ content }}
 
-<hr />
+
+  <hr />
   <p>
     To the extent possible under law, the contributors to this site have waived
     all copyright and related or neighboring rights to the content on this
@@ -83,6 +103,7 @@
       1.0 Universal Public Domain Dedication</a>
     for more information.
   </p>
+</div>
 
     <script src="/assets/javascript/anchor-js/anchor.min.js"></script>
     <script>anchors.add();</script>
