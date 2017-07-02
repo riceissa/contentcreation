@@ -22,6 +22,12 @@ truncated or abbreviated in parts with ellipses.
 A numerical link occurs when the text of a link is a number, such as `1` or
 `2`.
 
+An example appears in a [post on the GiveWell blog](http://blog.givewell.org/2015/04/09/translational-science-and-the-valley-of-death/),
+where the sentence "It appears to me that the creation of NCATS was met with
+some negative reaction from the scientific community, as evidenced by three
+posts (1, 2, 3) by chemist Derek Lowe" contains three numerical links pointing
+to three posts (`1, 2, 3`).
+
 ## Here links
 
 A here link is a link in which the text of a link is the word "here".
