@@ -78,3 +78,7 @@ title of the thing being referred to.
 This style of linking occurs when the writer wants to cite examples of a
 particular thing, and links some adjacent words in a relevant part of the
 sentence such that each word links out to a different example of the thing.
+
+An example appears in a [post on the EA Forum](http://effective-altruism.com/ea/14d/donor_lotteries_a_stepbystep_guide_for_mall/)
+where in the phrase "my blog posts", each of "blog" and "posts" links out to a
+separate post.
