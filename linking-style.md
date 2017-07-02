@@ -28,6 +28,11 @@ some negative reaction from the scientific community, as evidenced by three
 posts (1, 2, 3) by chemist Derek Lowe" contains three numerical links pointing
 to three posts (`1, 2, 3`).
 
+Another example appears in a [EA Forum post](http://effective-altruism.com/ea/14w/2017_ai_risk_literature_review_and_charity/)
+in the phrase "the two Evans et al papers (one, two) offer a more promising
+approach to this specific question", where "one" and "two" link out to distinct
+papers.
+
 ## Here links
 
 A here link is a link in which the text of a link is the word "here" or the
