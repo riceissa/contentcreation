@@ -39,6 +39,13 @@ on the Open Philanthropy Project blog, in which the word "here" in the sentence
 here" links to a [section in the relevant GiveWell
 post](http://blog.givewell.org/2017/06/12/separating-givewell-open-philanthropy-project/#Details).
 
+## Source links
+
+A source link is similar to a here link, where the text of a link is the word
+"source", sometimes surrounded by parentheses.
+
+An example appears in a [post on SSC](http://slatestarcodex.com/2015/01/01/untitled/).
+
 ## Linking verbs
 
 ## Linking nouns
