@@ -20,7 +20,12 @@ truncated or abbreviated in parts with ellipses.
 ## Numerical linking
 
 A numerical link occurs when the text of a link is a number, such as `1` or
-`2`.
+`2`. In numerical linking, the numbers are maintained only within a single
+group of links, and resets for each group of links in a document. Therefore
+there can be multiple groups appearing as `1, 2, 3` rather than one group
+appearing as `1, 2, 3` and a second group appearing as `4, 5, 6`. This
+differentiates numerical linking from footnotes and endnotes, which are global
+or local to a larger portion of the document such as a chapter.
 
 An example appears in a [post on the GiveWell blog](http://blog.givewell.org/2015/04/09/translational-science-and-the-valley-of-death/),
 where the sentence "It appears to me that the creation of NCATS was met with
