@@ -14,3 +14,4 @@ Welcome!
 
 - [Indie Web wiki](https://indieweb.org/)
 - [Networked Mortality wiki](http://networkedmortality.com/Main_Page)
+- [The Subject Wikis Blog](https://blog.subwiki.org/)
