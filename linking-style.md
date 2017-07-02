@@ -57,6 +57,9 @@ A source link is similar to a here link, where the text of a link is the word
 
 An example appears in a [post on SSC](http://slatestarcodex.com/2015/01/01/untitled/).
 
+The text can also be "ref", "link", "example", etc., as in a [post on EA Forum
+demonstrates](http://effective-altruism.com/ea/16r/increasing_access_to_pain_relief_an_ea_perspective/).
+
 ## More links
 
 [example](http://blog.givewell.org/2016/12/12/amf-population-ethics/)
