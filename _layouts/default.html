@@ -11,7 +11,7 @@
           font-family: Lato, Helvetica, sans;
       }
 
-      article#content {
+      article, footer {
           max-width: 900px;
           line-height: 1.4;
           margin: 12px auto;
@@ -20,9 +20,9 @@
           word-wrap: break-word;
       }
 
-      nav#site_navigation {
-        font-size: 90%;
-        overflow: hidden;
+      nav {
+          font-size: 90%;
+          overflow: hidden;
       }
 
       header { text-align: center; }
@@ -77,7 +77,7 @@
     </style>
   </head>
   <body>
-    <nav id="site_navigation">
+    <nav>
       <div style="float:left;">
         <a href="http://contentcreation.issarice.com/">Home</a>
         | <a href="https://github.com/riceissa/contentcreation">Fork me on GitHub</a>
@@ -92,11 +92,13 @@
       <h1>{{ page.title }}</h1>
     </header>
 
-<article id="content">
+<article>
 
 {{ content }}
 
+</article>
 
+  <footer>
   <hr />
   <p>
     To the extent possible under law, the contributors to this site have waived
@@ -107,7 +109,7 @@
       1.0 Universal Public Domain Dedication</a>
     for more information.
   </p>
-</article>
+  </footer>
 
     <script src="/assets/javascript/anchor-js/anchor.min.js"></script>
     <script>anchors.add();</script>
