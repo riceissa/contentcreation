@@ -19,6 +19,20 @@ truncated or abbreviated in parts with ellipses.
 
 ## Numerical linking
 
+A numerical link occurs when the text of a link is a number, such as `1` or
+`2`.
+
+## Here links
+
+A here link is a link in which the text of a link is the word "here".
+
+An example is the post "[The Open Philanthropy Project Is Now an Independent
+Organization](http://www.openphilanthropy.org/blog/open-philanthropy-project-now-independent-organization)"
+on the Open Philanthropy Project blog, in which the word "here" in the sentence
+"For some more technical details on the transaction, see the GiveWell post
+here" links to a [section in the relevant GiveWell
+post](http://blog.givewell.org/2017/06/12/separating-givewell-open-philanthropy-project/#Details).
+
 ## Linking verbs
 
 ## Linking nouns
