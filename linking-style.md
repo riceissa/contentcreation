@@ -12,6 +12,9 @@ itself appears in the body of the text. This style of linking is often used in
 environments that do not support the concealing of the bare URL or URI, such as
 a plaintext email, Facebook post, Facebook message, or Hacker News post.
 
+Note that in some environments (such as a Facebook post), the bare URL is
+truncated or abbreviated in parts with ellipses.
+
 ## Footnote style linking
 
 ## Numerical linking
