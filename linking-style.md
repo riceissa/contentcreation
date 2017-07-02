@@ -50,6 +50,26 @@ on the Open Philanthropy Project blog, in which the word "here" in the sentence
 here" links to a [section in the relevant GiveWell
 post](http://blog.givewell.org/2017/06/12/separating-givewell-open-philanthropy-project/#Details).
 
+Some style guides discourage the use of here links. For instance, the [Markdown
+style guide from Google states](https://github.com/google/styleguide/blob/7969290bacb1965d09677a79d523b4871c9d039c/docguide/style.md#use-informative-markdown-link-titles):
+
+> Titling your links as "link" or "here" tells the reader precisely nothing when
+> quickly scanning your doc and is a waste of space:
+>
+> ```markdown
+> See the syntax guide for more info: [link](syntax_guide.md).
+> Or, check out the style guide [here](style_guide.md).
+> DO NOT DO THIS.
+> ```
+>
+> Instead, write the sentence naturally, then go back and wrap the most
+> appropriate phrase with the link:
+>
+> ```markdown
+> See the [syntax guide](syntax_guide.md) for more info.
+> Or, check out the [style guide](style_guide.md).
+> ```
+
 ## Source links
 
 A source link is similar to a here link, where the text of a link is the word
