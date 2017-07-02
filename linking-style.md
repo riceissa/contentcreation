@@ -51,6 +51,9 @@ An example appears in a [post on SSC](http://slatestarcodex.com/2015/01/01/untit
 
 ## Linking nouns
 
+A subset of noun links are title links, in which the text of the link is the
+title of the thing being referred to.
+
 ## Linking as emphasis
 
 ## Linking adjacent words
