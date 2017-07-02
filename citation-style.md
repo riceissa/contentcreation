@@ -7,4 +7,4 @@ documents.
 
 ## See also
 
-- [Linking style](linking-style)
+- [Linking style]({% link linking-style.md %})
