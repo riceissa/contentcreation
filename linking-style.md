@@ -70,6 +70,9 @@ style guide from Google states](https://github.com/google/styleguide/blob/796929
 > Or, check out the [style guide](style_guide.md).
 > ```
 
+When a page is printed, hyperlinks may be lost, so it may be desirable to
+ensure a sentence still "makes sense" even without the link.
+
 ## Source links
 
 A source link is similar to a here link, where the text of a link is the word
