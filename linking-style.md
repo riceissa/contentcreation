@@ -47,6 +47,10 @@ A source link is similar to a here link, where the text of a link is the word
 
 An example appears in a [post on SSC](http://slatestarcodex.com/2015/01/01/untitled/).
 
+## More links
+
+[example](http://blog.givewell.org/2016/12/12/amf-population-ethics/)
+
 ## Linking verbs
 
 ## Linking nouns
