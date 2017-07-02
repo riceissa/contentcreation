@@ -1,4 +1,6 @@
-# Content Creation wiki
+---
+title: Content Creation wiki
+---
 
 Welcome!
 
