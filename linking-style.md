@@ -30,7 +30,8 @@ to three posts (`1, 2, 3`).
 
 ## Here links
 
-A here link is a link in which the text of a link is the word "here".
+A here link is a link in which the text of a link is the word "here" or the
+phrase "see here" or something to that effect.
 
 An example is the post "[The Open Philanthropy Project Is Now an Independent
 Organization](http://www.openphilanthropy.org/blog/open-philanthropy-project-now-independent-organization)"
