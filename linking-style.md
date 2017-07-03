@@ -17,6 +17,11 @@ truncated or abbreviated in parts with ellipses.
 
 ## Footnote style linking
 
+In footnote style linking, the text of links is a number that is incremented
+sequentially throughout the document. In contrast to numerical linking, the
+number global to the whole document or local to a large unit of text, such as a
+chapter.
+
 ## Numerical linking
 
 A numerical link occurs when the text of a link is a number, such as `1` or
@@ -95,6 +100,47 @@ A subset of noun links are title links, in which the text of the link is the
 title of the thing being referred to.
 
 ## Linking as emphasis
+
+Links often emphasize text on a page (in many browsers links are underlined and
+colored differently). Consider the sentence "Stopping X shouldn't be a high
+priority." It would be natural to hyperlink this to something that argues this
+point. In Markdown (where square brackets denote the part of the sentence that is
+linked and `url` is the destination URL):
+
+```markdown
+Stopping X [shouldn't be a high priority](url).
+```
+
+This gets the emphasis right. But now what if we want the sentence to read
+instead "I don't think stopping X should be a high priority."?
+
+Consider the straightforward hyperlink translation:
+
+```markdown
+I don't think stopping X [should be a high priority](url).
+```
+
+Someone quickly scanning the sentence might now accidentally interpret that
+stopping X should be a high priority! Instead we want something like the
+following:
+
+```markdown
+I [don't think stopping X should be a high priority](url).
+```
+
+Or:
+
+```markdown
+I don't think stopping X should be a [high priority](url).
+```
+
+Or:
+
+```markdown
+I [don't think](url) stopping X should be a high priority.
+```
+
+The exact placement of the link depends on the emphasis one wants to give.
 
 ## Linking adjacent words
 
