@@ -6,3 +6,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+# This is needed for styling the table of contents
+kramdown:
+  parse_block_html: true

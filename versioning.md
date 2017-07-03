@@ -7,6 +7,8 @@ document. For instance, versioning can be numerical ("version 1", "version 2",
 etc.), date-based ("last updated 2017-07-02"), or hash-based (assigning a
 cryptographic hash to the content).
 
+{% include toc.md %}
+
 ## Analogy with software
 
 There has been a lot of thought put into versioning of software:
