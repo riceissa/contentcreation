@@ -6,11 +6,11 @@ Welcome!
 
 ## Some pages
 
-{% for p in site.pages %}
+{% for p in site.pages -%}
   {% if p.title != blank and p.url != "/" and p.url != "/assets/css/style.css" %}
 - [{{ p.title }}]({{ p.url }})
-  {% endif %}
-{% endfor %}
+  {%- endif %}
+{%- endfor %}
 
 ## External links
 
