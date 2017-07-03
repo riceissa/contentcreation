@@ -7,6 +7,8 @@ specific subject (e.g. group theory) rather than treating many subjects
 comprehensively (e.g. a general encyclopedia) or focusing on a specific format
 (e.g. timelines).
 
+{% include toc.md %}
+
 ## Examples
 
 - Each individual wiki on [Subject Wikis](https://subwiki.org/wiki/Main_Page)

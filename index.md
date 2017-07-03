@@ -4,6 +4,8 @@ title: Content Creation wiki
 
 Welcome!
 
+{% include toc.md %}
+
 ## Some pages
 
 <ul>

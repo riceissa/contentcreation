@@ -4,6 +4,8 @@ title: Measuring impact
 
 For content creators, **measuring impact** is difficult.
 
+{% include toc.md %}
+
 ## Metrics
 
 - Pageviews

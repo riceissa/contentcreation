@@ -5,6 +5,8 @@ title: Timeline
 A **timeline** is a content format in which events are organized
 chronologically.
 
+{% include toc.md %}
+
 ## Types
 
 Timelines can take on various forms:
