@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Content Creation wiki</title>
+    <title>{% if page.title != "Content Creation Wiki" %}{{ page.title }} - {% endif %}Content Creation Wiki</title>
     <style type="text/css">
       body {
           background-color: #fff;

@@ -1,5 +1,5 @@
 ---
-title: Content Creation wiki
+title: Content Creation Wiki
 ---
 
 Welcome!
