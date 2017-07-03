@@ -5,6 +5,8 @@ title: Linking style
 **Linking style** refers to how hyperlinks appear in a document. Some linking
 styles are discussed on this page.
 
+{% include toc.md %}
+
 ## Bare URLs/URIs
 
 A bare URL or URI is the simplest style of linking, in which the URL or URI
