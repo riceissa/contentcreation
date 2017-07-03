@@ -7,7 +7,9 @@ Welcome!
 ## Some pages
 
 {% for p in site.pages %}
-  - [{{ p.title }}]({{ p.url }})
+  {% if (p.title != blank) and (p.url != "/") %}
+- [{{ p.title }}]({{ p.url }})
+  {% endif %}
 {% endfor %}
 
 ## External links
