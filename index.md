@@ -8,7 +8,7 @@ Welcome!
 
 ## Some pages
 
-<ul>
+<ul class="twocolumns">
 {% for p in site.pages %}
   {% if p.title != blank and p.url != "/" and p.url != "/assets/css/style.css" %}
 <li><a href="{{ p.url }}">{{ p.title }}</a></li>
