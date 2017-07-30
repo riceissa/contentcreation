@@ -2,7 +2,7 @@
 title: Content Creation Wiki
 ---
 
-Welcome!
+Welcome to the Content Creation Wiki!
 
 {% include toc.md %}
 
@@ -15,6 +15,19 @@ Welcome!
   {% endif %}
 {% endfor %}
 </ul>
+
+## Download
+
+The whole wiki is [hosted on GitHub](https://github.com/riceissa/contentcreation).
+
+You can clone the Git repository with:
+
+    git clone https://github.com/riceissa/contentcreation.git
+
+The wiki is built with [Jekyll](https://jekyllrb.com/) and can be generated
+with:
+
+    jekyll serve
 
 ## External links
 
