@@ -26,4 +26,6 @@ at the top of their writings.
 
 ## See also
 
+- [Metadata]({% link epistemic-status.md %})
+
 ## External links
