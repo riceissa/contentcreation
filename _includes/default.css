@@ -25,6 +25,12 @@ a:link { color: #0952B1; }
 a:visited { color: #500869; }
 a:hover, a:active { text-decoration: underline; }
 
+article a[href*="//"]:not([href*="contentcreation.issarice.com"]):after,
+footer a[href*="//"]:not([href*="contentcreation.issarice.com"]):after {
+    content: url(/assets/img/Icon_External_Link.png);
+    margin: 0 0 0 2px;
+}
+
 header { text-align: center; }
 
 blockquote {
