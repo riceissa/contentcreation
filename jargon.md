@@ -12,3 +12,7 @@ When using jargon, there is the question of when to define it. Defining jargon
 early ensures you don't waste readers' time. It is tedious to read an article
 that adds no new insight other than a new phrase coined by an author for the
 sake of their argument.
+
+## See also
+
+- [Good entry point]({% link good-entry-point.md %})
