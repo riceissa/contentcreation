@@ -100,8 +100,8 @@ Some problems that might occur:
 
 ## See also
 
-  * [Dating style]()
+* [Dating style]()
 
 ## External links
 
-  * ["Beware technological wonderland, or, why text will dominate the future of communication and the Internet"](http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/) by Vipul Naik
+* ["Beware technological wonderland, or, why text will dominate the future of communication and the Internet"](http://lesswrong.com/lw/k25/beware_technological_wonderland_or_why_text_will/) by Vipul Naik
