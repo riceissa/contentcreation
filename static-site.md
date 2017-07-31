@@ -3,8 +3,8 @@ title: Static site
 ---
 
 A **static site** is a website where the pages are sent to the user exactly as
-stored. In order to achieve similar features as dynamic sites, a static site
-generator and JavaScript can be used.
+stored. In order to achieve similar features as dynamic sites, a [static site
+generator]({% link static-site-generator.md %}) and JavaScript can be used.
 
 {% include toc.md %}
 
