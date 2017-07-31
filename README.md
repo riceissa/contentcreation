@@ -16,5 +16,7 @@ for the license text.
 
 AnchorJS is MIT licensed.
 
+Normalize.css is MIT licensed.
+
 `Icon_External_Link.png` is [from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Icon_External_Link.png)
 and is licensed under GPL 2.
