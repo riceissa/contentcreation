@@ -42,7 +42,7 @@ Naik writes:
 > subject wiki pages should largely make sense as independent entry points into
 > the wiki, so that people coming from outside can go straight there. While
 > they should link to other subject wiki entries, they should not be dependent
-> on them in a strong sense.  Most important, there should be no *forced
+> on them in a strong sense. Most important, there should be no *forced
 > sequencing* of the entries as in a textbook, where future entries depend on
 > earlier ones.
 
