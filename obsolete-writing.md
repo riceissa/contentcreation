@@ -14,6 +14,10 @@ It is common for writing to become obsolete.
 
 {% include toc.md %}
 
+## History
+
+(Has anyone else investigated this?)
+
 ## Dealing with obsolete writing
 
 There are various ways to deal with a piece of writing once it has
@@ -27,9 +31,23 @@ become obsolete:
   (for instance, rather than linking to a piece from the homepage of
   the website, link to it from "the archives" or "old writings").
 
-## History
+## Traits
 
-(Has anyone else investigated this?)
+What traits do obsolete writing have in common? Maybe:
+
+- Opinion pieces tend to become obsolete more quickly because people
+  learn more and change their minds.
+- Reference works tend to *not* become obsolete as quickly, although
+  they can be *improved*. These tend to become obsolete only (?) when
+  a competitor shows up (e.g. *Encyclopædia Britannica* became
+  obsolete to many once Wikipedia became a viable alternative).
+- False information tends to become more obsolete as the truth is
+  discovered (but it might take a long time).
+
+## Prevention
+
+It can be disheartening for writers to discover that much of their
+writing has become obsolete.
 
 ## See also
 
