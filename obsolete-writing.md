@@ -40,7 +40,11 @@ What traits do obsolete writing have in common? Maybe:
 - Reference works tend to *not* become obsolete as quickly, although
   they can be *improved*. These tend to become obsolete only (?) when
   a competitor shows up (e.g. *Encyclopædia Britannica* became
-  obsolete to many once Wikipedia became a viable alternative).
+  obsolete to many once Wikipedia became a viable alternative; Samuel
+  Johnson's [*A Dictionary of the English
+  Language*](https://en.wikipedia.org/wiki/A_Dictionary_of_the_English_Language)
+  was the preeminent English language dictionary until the *Oxford
+  English Dictionary* came around).
 - False information tends to become more obsolete as the truth is
   discovered (but it might take a long time).
 
