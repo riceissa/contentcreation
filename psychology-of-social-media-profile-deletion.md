@@ -9,6 +9,8 @@ deleting their Facebook account? Why do some people habitually
 deactivate their Facebook account? How do people feel before and after
 deleting their Quora account? And so on.
 
+{% include toc.md %}
+
 ## History
 
 There used to be a website called [Profile
