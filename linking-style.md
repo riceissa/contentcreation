@@ -153,3 +153,8 @@ sentence such that each word links out to a different example of the thing.
 An example appears in a [post on the EA Forum](http://effective-altruism.com/ea/14d/donor_lotteries_a_stepbystep_guide_for_mall/)
 where in the phrase "my blog posts", each of "blog" and "posts" links out to a
 separate post.
+
+## External links
+
+- ["The Rhetoric of the Hyperlink"](https://www.ribbonfarm.com/2009/07/01/the-rhetoric-of-the-hyperlink/)
+  by Venkatesh Rao
