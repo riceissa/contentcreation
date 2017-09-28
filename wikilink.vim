@@ -5,7 +5,6 @@ function! s:wikilink() abort
   let l:filename = join(filter(split(l:filename, '-'), 'v:val !=# ""'), '-')
   let l:filename .= '.md'
   return '[' . l:page_title . ']({% link ' . l:filename . ' %})'
-  "[Good entry point]({% link good-entry-point.md %})"
 endfunction
 
 inoremap <C-R><C-W> <C-R>=<SID>wikilink()<CR>
