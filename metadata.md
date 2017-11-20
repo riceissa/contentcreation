@@ -30,6 +30,8 @@ For content pages, the following metadata are some possibilities:
 |Disclosures|||Also called "conflicts of interest" information in some contexts.|
 |Authorship||||
 |Completion status|A sliding scale like "notes", "draft", "almost done", "finished" is one idea|[gwern's website](https://www.gwern.net/About) uses completion status tags|When the creator of a page has some idea of how the page will develop in the future, it is possible to assign a completion status to the page, indicating how far off from completion the page is.|
+|Votes|||Upvotes or downvotes, if the content is hosted or shared on a platform that supports voting.|
+|Reviews|||If the content is popular, it may be reviewed by consumers or critics.|
 
 It is possible to come up with many more metadata. Most generally, we can
 conceptualize each page as a list of each timestamped version of the page, plus
