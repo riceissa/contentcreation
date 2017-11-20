@@ -22,6 +22,7 @@ For content pages, the following metadata are some possibilities:
 |Creation date|||The date when work on a page began.|
 |Substantive revision date|||The date when the last substantive revision was completed. This might coincide with the versioning information if the versioning uses a date-based scheme.|
 |Last modification date|||The date when the page was last modified.|
+|Generation date|||The date when the page was last generated from source files (if the page is generated from source files).|
 |Edit count|||The number of edits that have been made to a page.|
 |Pageviews|Any non-negative integer||The number of times a page has been viewed.|
 |Unique pageviews|||The number of pageviews by unique devices to a page.|
@@ -32,6 +33,7 @@ For content pages, the following metadata are some possibilities:
 |Completion status|A sliding scale like "notes", "draft", "almost done", "finished" is one idea|[gwern's website](https://www.gwern.net/About) uses completion status tags|When the creator of a page has some idea of how the page will develop in the future, it is possible to assign a completion status to the page, indicating how far off from completion the page is.|
 |Votes|||Upvotes or downvotes, if the content is hosted or shared on a platform that supports voting.|
 |Reviews|||If the content is popular, it may be reviewed by consumers or critics.|
+|License|CC-BY, CC0, GPLv2, etc.|Pages and uploaded files on Wikipedia have a license attached to them (usually displayed at the bottom of the page). Code repositories often have a `LICENSE` or `COPYING` file that describes the license.|The license for the content of the page.|
 
 It is possible to come up with many more metadata. Most generally, we can
 conceptualize each page as a list of each timestamped version of the page, plus
