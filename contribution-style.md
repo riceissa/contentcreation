@@ -21,7 +21,18 @@ many styles:
 - Academic paper
 
 We can use the term "contribution style" to refer to both of these
-choices.
+choices. Why are some contribution styles more popular than others?
+How do people decide what contribution style to use? Are some
+contribution styles "better" than others? Why are some contribution
+styles more socially or financially rewarded than others?
+
+The "opposite" of contribution style might be "consumption style":
+one's preferred consumption format for information. One can ask
+similar questions like, should one prefer certain formats? How should
+one reward the creation of work (e.g., principles for "liking" things
+on Facebook)?
+
+{% include toc.md %}
 
 ## Decision process
 
