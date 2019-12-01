@@ -21,6 +21,7 @@ Some websites use **standardized sections** on their websites.
   subsections "How the timeline was built", "What the timeline is still
   missing", and "Timeline update strategy"), "See also", "External links", and
   "References".
+- https://learning.subwiki.org/wiki/User:Issa_Rice/My_working_model_of_page_types
 
 ## See also
 
